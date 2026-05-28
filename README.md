@@ -1,21 +1,38 @@
-# co89a405187815bae919a0647
+# 🏀 Basketball Scorecard
 
-Quick start:
+A simple and interactive Basketball Scorecard web application built using **HTML**, **CSS**, and **JavaScript**.  
+This project allows users to keep track of basketball game scores in real time with an easy-to-use interface.
 
-```
-$ npm install
-$ npm start
-````
+🌐 Live Demo:  
+:contentReference[oaicite:0]{index=0}
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+---
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 📌 Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Live score tracking
+- Separate score controls for both teams
+- Clean and responsive UI
+- Instant score updates using JavaScript
+- Beginner-friendly project structure
+- Lightweight and fast-loading application
 
-Happy Coding!
+---
+
+## 🛠️ Built With
+
+- **HTML5** — Structure of the application
+- **CSS3** — Styling and layout
+- **JavaScript (Vanilla JS)** — Dynamic score functionality
+
+---
+
+## 📂 Project Structure
+
+```bash
+basketball-scorecard/
+│
+├── index.html        # Main HTML file
+├── style.css         # Styling for the application
+├── script.js         # Score handling logic
+└── README.md         # Project documentation
