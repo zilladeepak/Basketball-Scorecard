@@ -1,10 +1,13 @@
 # 🏀 Basketball Scorecard
 
-A simple and interactive Basketball Scorecard web application built using **HTML**, **CSS**, and **JavaScript**.  
-This project allows users to keep track of basketball game scores in real time with an easy-to-use interface.
+An interactive Basketball Scorecard web application built using **HTML**, **CSS**, and **JavaScript**.  
+This project allows users to track basketball game scores in real time through a clean and responsive user interface.
 
-🌐 Live Demo:  
-:contentReference[oaicite:0]{index=0}
+<p align="center">
+  <a href="https://basketball-scorecard-alpha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-orange?style=for-the-badge&logo=vercel" alt="Live Demo">
+  </a>
+</p>
 
 ---
 
