@@ -36,6 +36,6 @@ This project allows users to track basketball game scores in real time through a
 basketball-scorecard/
 │
 ├── index.html        # Main HTML file
-├── style.css         # Styling for the application
-├── script.js         # Score handling logic
+├── index.css         # Styling for the application
+├── index.js         # Score handling logic
 └── README.md         # Project documentation
